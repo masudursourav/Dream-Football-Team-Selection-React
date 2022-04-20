@@ -1,0 +1,108 @@
+[
+  {
+    "number": 1,
+    "name": "Sergio Almirón", 
+    "position": "Forward",
+    "salary":2000,
+    "pic":"https://futhead.cursecdn.com/static/img/14/players/104047.png"
+  },
+  {
+    "number": 2,
+    "name": "Sergio Batista", 
+    "position": "Midfielder",
+    "salary":2100,
+    "pic":"https://www.imago-images.com/bild/sp/0017982039/s.jpg"
+  },
+  {
+    "number": 3,
+    "name": "Ricardo Enrique Bochini", 
+    "position": "Midfielder",
+    "salary":2200,
+    "pic":"http://photos1.blogger.com/blogger/2118/2106/320/FRACASADO.jpg"
+    
+  },
+  {
+    "number": 4,
+    "name": "Claudio Borghi", 
+    "position": "Midfielder",
+    "salary":2300,
+    "pic":"https://i.pinimg.com/474x/61/3e/51/613e514a13c211570554b705b77125a2.jpg"
+  },
+  {
+    "number": 5,
+    "name": "José Luis Brown", 
+    "position": "Defender",
+    "salary":2400,
+    "pic":"https://www.telegraph.co.uk/content/dam/obituaries/2019/08/15/TELEMMGLPICT000206501455_trans_NvBQzQNjv4Bq90JsMauqkzRhOnTEP_rlOvu_vPqlyR3m1BzPWkRhf6I.jpeg"
+  },
+  {
+    "number": 6,
+    "name": "Daniel Passarella", 
+    "position": "Defender",
+    "salary":2500,
+    "pic":"https://s.hs-data.com/bilder/spieler/gross/7026.jpg"
+  },
+  {
+    "number": 7,
+    "name": "Jorge Burruchaga", 
+    "position": "Midfielder",
+    "salary":2600,
+    "pic":"https://pbs.twimg.com/media/BzQgBMzCUAAVJ-S.jpg"
+  },
+  {
+    "number": 8,
+    "name": "Néstor Clausen", 
+    "position": "Defender",
+    "salary":2700,
+    "pic":"https://img.a.transfermarkt.technology/portrait/big/116696-1630589414.jpg?lm=1"
+  },
+  {
+    "number": 9,
+    "name": "José Luis Cuciuffo", 
+    "position": "Defender",
+    "salary":2800,
+    "pic":"https://upload.wikimedia.org/wikipedia/commons/2/20/Cuciuffo_argentina_1986.jpg"
+  },
+  {
+    "number": 10,
+    "name": "Diego Maradona", 
+    "position": "Midfielder",
+    "salary":2900,
+    "pic":"https://tmssl.akamaized.net/images/foto/galerie/diego-maradona-1401100569-36.jpg?lm=1483605486"
+  },
+  {
+    "number": 11,
+    "name": "Jorge Valdano", 
+    "position": "Forward",
+    "salary":2000,
+    "pic":"https://i0.wp.com/thesefootballtimes.co/wp-content/uploads/2017/03/valdano.jpg?fit=2048%2C1430&ssl=1"
+  },
+  {
+    "number": 12,
+    "name": "Héctor Enrique", 
+    "position": "Midfielder",
+    "salary":2100,
+    "pic":"https://www.footballdatabase.eu/images/photos/players/1986/a_23/23822.jpg"
+  },
+  {
+    "number": 13,
+    "name": "Oscar Garré", 
+    "position": "Defender",
+    "salary":2200,
+    "pic":"https://s.hs-data.com/bilder/spieler/gross/10176.jpg"
+  },
+  {
+    "number": 14,
+    "name": "Ricardo Giusti", 
+    "position": "Midfielder",
+    "salary":2300,
+    "pic":"https://s.hs-data.com/bilder/spieler/gross/7144.jpg"
+  },
+  {
+    "number": 15,
+    "name": "Luis Islas",
+    "position": "Goalkeeper",
+    "salary":2400,
+    "pic":"https://i.pinimg.com/originals/5b/f3/3f/5bf33f95ddab8ff87b7418c9bbaab818.png"
+  }
+]
